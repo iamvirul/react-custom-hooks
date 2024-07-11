@@ -2,7 +2,7 @@
 
 # React Custom Hooks
 
-A collection of custom React hooks for various advanced use cases.
+A collection of custom React hooks designed to handle advanced use cases, from managing asynchronous operations and state persistence to handling media queries and WebSocket connections. Each hook is designed for simplicity, efficiency, and ease of integration into React applications.
 
 ## Installation
 
