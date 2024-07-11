@@ -5,10 +5,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "hooks",
+    "custom hooks",
+    "async operations",
+    "state management",
+    "media queries",
+    "websockets",
+    "utility",
+    "frontend",
+    "javascript"
+  ],
   "author": "Virul Nirmala Wickramasinghe",
   "license": "ISC",
-  "description": "",
+  "description": "A collection of custom React hooks designed to handle advanced use cases, from managing asynchronous operations and state persistence to handling media queries and WebSocket connections. Each hook is designed for simplicity, efficiency, and ease of integration into React applications.",
   "peerDependencies": {
     "react": "^18.3.1"
   }
