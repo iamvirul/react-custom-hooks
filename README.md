@@ -7,7 +7,7 @@ A collection of custom React hooks designed to handle advanced use cases, from m
 ## Installation
 
 ```sh
-npm install react-custom-hooks
+npm install react-advanced-hooks
 ```
 
 ## Hooks
