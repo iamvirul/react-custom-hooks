@@ -1,5 +1,5 @@
 {
-  "name": "react-custom-hooks",
+  "name": "react-advanced-hooks",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "websockets",
     "utility",
     "frontend",
-    "javascript"
+    "javascript",
+    "react-advanced-hooks"
   ],
   "author": "Virul Nirmala Wickramasinghe",
   "license": "ISC",
